@@ -1,0 +1,30 @@
+#a1{
+    text-decoration: none;
+    color:aquamarine
+}
+
+h4{
+    text-decoration: none;
+    color:blue;
+
+}
+#p1{
+    text-decoration: none;
+    color: blue;
+}
+
+#p2{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+#p3{
+    text-decoration: none;
+    color: brown;
+}
+
+.grp1{
+    border: 1px solid red;
+    margin: 5% 10% 5% 30%;
+    padding: 10px 50px 10px 40px;
+}
